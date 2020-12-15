@@ -1,10 +1,10 @@
 
 body {
-   background-color:#EAF6F6;
+   background-color:#d0e8f2;
 }
 
 hr {
-  border-color: #bbbbbb;
+  border-color: grey;
   border-style: none;
   border-top-style: dashed;
   border-width: 5px;
@@ -16,9 +16,9 @@ img {
 }
 
 h1 {
-  color: #66BFBF;
+  color: #34626c;
 }
 
 h3 {
-  color: #66BFBF;
+  color: #34626c;
 }
