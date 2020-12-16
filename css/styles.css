@@ -33,8 +33,8 @@ h3 {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-bottom: 0px;
-  padding-top: 150px;
+  padding-bottom: 250px;
+  padding-top: 250px;
 }
 
 .middle-container {
@@ -49,16 +49,24 @@ h3 {
   padding-top: 100px;
 }
 
-.top-cloud{
+.top-balloon{
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 30px;
+  top: 30px;
+  width: 150px;
+  height: 150px;
 }
 
-.bottom-cloud {
+.bottom-balloon {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  width: 200px;
+  height: 200px;
+  left: 10px;
+  bottom: 600px;
+}
+.main-balloon{
+  position: relative;
+  bottom: -80px;
 }
 
 .pic {
