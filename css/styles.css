@@ -74,6 +74,7 @@ p {
   left: 10px;
   bottom: 600px;
 }
+
 .main-balloon{
   position: relative;
   bottom: -80px;
@@ -104,6 +105,7 @@ p {
 .footer-link:hover {
   color: #EAF6F6;
 }
+
 .BUTTON_CTM {
    background: #11999E;
    background-image: -webkit-linear-gradient(top, #11999E, #1E62D0);
